@@ -8,5 +8,6 @@
     <string name="text">You have no bookings yet</string>
     <string name="image_of_icon">Image of icon</string>
     <string name="lorem_ispum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, iqu</string>
+    <string name="parking">Parking Receipt</string>
 
 </resources>
